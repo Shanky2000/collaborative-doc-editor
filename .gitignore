@@ -1,0 +1,20 @@
+# Node.js dependencies
+**/node_modules/
+**/dist/
+
+# Java build artifacts
+**/target/
+**/*.jar
+**/*.war
+**/*.class
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Temporary files
+*.log
+tmp/
+temp/
